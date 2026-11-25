@@ -31,6 +31,7 @@ packages, the route's GPX and a README.
 | Route | Where | Length | Download |
 |---|---|---|---|
 | KVR Trail (Kettle Valley Rail Trail) | British Columbia, Canada: Hope to Castlegar | 650 km, 8,200 m climbing | [KVR-Trail-scenery.zip](https://github.com/joao12021996/tacx-bike-releases/releases/download/scenery-kvr-trail/KVR-Trail-scenery.zip) |
+| Ecopista do Corgo | Northern Portugal: Peso da Régua to Chaves | 97 km, 1,500 m climbing | [Ecopista-do-Corgo-scenery.zip](https://github.com/joao12021996/tacx-bike-releases/releases/download/scenery-ecopista-do-corgo/Ecopista-do-Corgo-scenery.zip) |
 
 Make your own from any GPX with [GPX to MSFS 2024](https://www.spotlegame.co.uk/gpx2msfs/).
 
